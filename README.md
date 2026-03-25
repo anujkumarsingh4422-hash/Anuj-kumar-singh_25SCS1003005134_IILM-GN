@@ -1,1 +1,5 @@
 # Anuj-kumar-singh_25SCS1003005134_IILM-GN
+
+THIS IS AIML PROJECT URBAN BUILDING ENERGY OPTIMIZATION 
+→ Simulates energy use for entire cities (planning + engineering).
+→ Models energy networks between buildings.
